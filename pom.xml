@@ -20,7 +20,7 @@
         <dependency>
             <groupId>org.codehaus.cargo</groupId>
             <artifactId>cargo-core-container-wildfly</artifactId>
-            <version>1.9.3</version>
+            <version>1.10.13</version>
         </dependency>
 
 <!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.wso2.orbit.org.opensaml/opensaml &ndash;&gt;-->
